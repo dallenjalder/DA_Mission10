@@ -1,0 +1,21 @@
+# .NET build output
+bin/
+obj/
+
+# Node
+node_modules/
+dist/
+
+# Environment / local config
+*.user
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Rider / VS / VSCode
+.idea/
+.vscode/
+*.suo
+*.swp
